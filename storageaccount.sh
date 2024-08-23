@@ -15,7 +15,7 @@
 # fi
 
 
-LOCATION="EastUS"
+LOCATION="CentralIndia"
 RESOURCE_GROUP_NAME="jenkins-rg"
 STORAGE_ACCOUNT_NAME="somenttfstate"
 CONTAINER_NAME="tfstate"
