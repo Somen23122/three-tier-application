@@ -16,7 +16,7 @@
 
 
 LOCATION="EastUS"
-RESOURCE_GROUP_NAME="rg-dev-aks"
+RESOURCE_GROUP_NAME="jenkins-rg"
 STORAGE_ACCOUNT_NAME="somenttfstate"
 CONTAINER_NAME="tfstate"
 
